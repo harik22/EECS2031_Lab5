@@ -1,5 +1,7 @@
 #!/bin/sh
 
-echo "hellow world 2"
-
+echo "hello world 2"
+echo "This machine is alive"
+#o
+o
 
